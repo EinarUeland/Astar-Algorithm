@@ -8,6 +8,8 @@ The typical restriction of only being able to move in 45 degrees is not prsent. 
 By using the two-sided option, typically, the number of explored cells is significantly reduced, resulting in increased computation times;
 ![TESt0](Figures/AStar2.gif)
 
+![TESt0](Figures/AStar3.gif)
+
                          
 <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASTARSHOWCon1.png"   width="250" height="250"> <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASTARSHOWCon4.png"   width="250" height="250"> <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASTARSHOWCon8.png"   width="250" height="250">
 
