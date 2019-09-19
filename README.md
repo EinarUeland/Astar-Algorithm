@@ -13,7 +13,7 @@ By using the two-sided option, typically, the number of explored cells is signif
 
 ![](ASTARSHOWCon4.png|width=100) 
 
-![](ASTARSHOWCon1.png  | width=100)  ![](ASTARSHOWCon4.png|width=100)  ![](ASTARSHOWCon8.png | width=100 )
+![](ASTARSHOWCon1.png   =250x250)  ![](ASTARSHOWCon4.png|width=100)  ![](ASTARSHOWCon8.png | width=100 )
 
   
 
