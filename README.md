@@ -11,7 +11,7 @@ The typical restriction of only being able to move in 45 degrees is not prsent. 
 By using the two-sided option, typically, the number of explored cells is significantly reduced, resulting in increased computation times;
 ![](AStar2.gif)
 
-![](ASTARSHOWCon4.png|width=100) 
+![](ASTARSHOWCon4.png,style="width: 600px) 
 
 ![](ASTARSHOWCon1.png   =250x250)  ![](ASTARSHOWCon4.png|width=100)  ![](ASTARSHOWCon8.png | width=100 )
 
