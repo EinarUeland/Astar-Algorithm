@@ -11,7 +11,7 @@ The typical restriction of only being able to move in 45 degrees is not prsent. 
 By using the two-sided option, typically, the number of explored cells is significantly reduced, resulting in increased computation times;
 ![TESt0](AStar2.gif)
 
-![TEST](ASTARSHOWCon1.png=250x)
+![TESTALLICITOUS](ASTARSHOWCon1.png=250x)
 <img src="Figures/ASTARSHOWCon1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
