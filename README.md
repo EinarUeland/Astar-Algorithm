@@ -12,7 +12,12 @@ By using the two-sided option, typically, the number of explored cells is signif
 ![TESt0](AStar2.gif)
 
 ![TESTALLICITOUS](ASTARSHOWCon1.png=250x)
-<img src="Figures/ASTARSHOWCon1.png"
+<img src="/Figures/ASTARSHOWCon1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+![TESTALLICITOUS](ASTARSHOWCon1.png=250x)
+<img src="../Figures/ASTARSHOWCon1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
