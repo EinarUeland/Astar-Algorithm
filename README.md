@@ -14,7 +14,7 @@ By using the two-sided option, typically, the number of explored cells is signif
 ![TEST](ASTARSHOWCon1.png=250x)
 
 
-
+<img src="./img.png" width="100" height="100">
 
 <img src="ASTARSHOWCon1.png" alt="cameraDemo" style="width:50px;"/>
 
