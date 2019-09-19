@@ -12,7 +12,7 @@ By using the two-sided option, typically, the number of explored cells is signif
 ![TESt0](Figures/AStar2.gif)
 ![TESt1](Figures/ASTARSHOWCon1.png)
 
-
+<img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASTARSHOWCon1.png">
 
 ![TESt0](Figures/ASTARSHOWCon1.png| width="324" height="324)
 
