@@ -6,7 +6,7 @@ In the followingfollowing, the algorithms performance under search is examplifie
 The typical restriction of only being able to move in 45 degrees is not prsent. Instead multiple settings for connection distnace can be used. Se examples; 
 
 
-<img src="./ASTARSHOWCon1.PNG" width="324" height="324
+<img src=".\ASTARSHOWCon1.PNG" width="324" height="324
 
 By using the two-sided option, typically, the number of explored cells is significantly reduced, resulting in increased computation times;
 ![TESt0](Figures/AStar2.gif)
