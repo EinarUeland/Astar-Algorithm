@@ -13,7 +13,7 @@ By using the two-sided option, typically, the number of explored cells is signif
 
 
 
-<img src="ASTARSHOWCon1.png" alt="cameraDemo" style="width: 600px;"/>
+<img src="ASTARSHOWCon1.png" alt="cameraDemo" style="width: 200px;"/>
 
 Multiple cells can be used; (With a possible application being to use the algorithm can be used for a robot to explore new areas)
 
