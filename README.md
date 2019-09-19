@@ -15,7 +15,8 @@ By using the two-sided option, typically, the number of explored cells is signif
 
 ![](ASTARSHOWCon1.png   =250x250)  ![](ASTARSHOWCon4.png|width=100)  ![](ASTARSHOWCon8.png | width=100 )
 
-  
+  <img src="ASTARSHOWCon1.png" alt="Distance1", style="width: 600px;"/>
+
 
 Multiple cells can be used; (With a possible application being to use the algorithm can be used for a robot to explore new areas)
 
