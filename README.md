@@ -20,6 +20,12 @@ Multiple cells can be used; (With a possible application being to use the algori
 <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASt3arC1.gif"   width="350" height="350"> <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASt3arC4.gif"   width="350" height="350"> <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASt3arC10.gif"   width="350" height="350">
 
 
+<img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/2Sided.gif"   width="350" height="350"> 
+
+<img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="350" height="350"> 
+
+
+
 Varying connecting distance etc..
 
 Multiple goals etc
