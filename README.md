@@ -28,6 +28,8 @@ Multiple cells can be used; (With a possible application being to use the algori
 
 <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="430" height="323"> 
 
+<img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/FRONTIER.gif"   width="430" height="323"> 
+
 
 
 Varying connecting distance etc..
