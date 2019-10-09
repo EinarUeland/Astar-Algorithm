@@ -17,8 +17,7 @@ In this particular example, the A-Star algorithm needs to explore most cells. We
 <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/2Sided.gif"   width="430" height="323"> 
 
 Multiple goal nodes can be specified as the example above shows:
-
-<img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="430" height="323"> 
+<div style="text-align:center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="430" height="323"> 
 
 This could also be used for a "Frontier Based Exploration" scheme in which the seacrch for the nearest. (note this is the case of the usage in the provided paper). 
 
