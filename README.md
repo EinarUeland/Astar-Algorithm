@@ -19,7 +19,7 @@ In this particular example, the A-Star algorithm needs to explore most cells. We
 <strong>Multiple goal nodes</strong> can be specified as the example above shows:
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="430" height="323"> 
 
-In cite paper, this is could also be used for a version of <em>Frontier Based Exploration</em where the "robot" search for the nearest unexplored cell. See the following example:
+In cite YT, this is could also be used for a version of <em>Frontier Based Exploration</em>  where the "robot" search for the nearest unexplored cell. See the following example:
 
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/FRONTIER.gif"   width="430" height="323"> 
 
