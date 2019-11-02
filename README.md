@@ -23,6 +23,8 @@ An example of use of provided method is the use in <em>Frontier Based Exploratio
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/FRONTIER.gif"   width="430" height="323"> 
 
 See full examlpe video 
+[I'm an inline-style link with title](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s "Google's Homepage")
+
 
 ![alt text](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s
  "Logo Title Text 1")
