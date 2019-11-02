@@ -12,7 +12,7 @@ See the following examples for <strong>Connecting Distance</strong> varying betw
 <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASTARSHOWCon8.png"   width="430" height="323"> <img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/ASt3arC10.gif"   width="430" height="323">
 
 
-In the above example, the A-Star algorithm needed to explore most cells. Efficiency can be improved by using the 2-sided AStar-solver as shown;  
+In the above example, the A-Star algorithm needed to explore most cells. Efficiency can be improved by using the <strong>2-sided</strong> solver as seen here;  
 
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/2Sided.gif"   width="430" height="323"> 
 
