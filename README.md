@@ -22,8 +22,7 @@ In the above example, the A-Star algorithm needed to explore most cells. Efficie
 An example of use of provided method is the use in <em>Frontier Based Exploration</em>  where the "robot" search for the nearest unexplored cell:
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/FRONTIER.gif"   width="430" height="323"> 
 
-See examlpe video;
-[Experimental video](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s "Youtube")
+See example video [here](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s "Youtube")
 
 
 ![alt text](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s
