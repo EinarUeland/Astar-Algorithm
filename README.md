@@ -25,10 +25,6 @@ An example of use of provided method is the use in <em>Frontier Based Exploratio
 See example video [here](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s "Youtube")
 
 
-![alt text](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s
- "Logo Title Text 1")
-
-
 -----------------
 
 This code was written for a project, which I have written a paper about: 
