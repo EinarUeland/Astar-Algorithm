@@ -16,7 +16,7 @@ In the above example, the A-Star algorithm needed to explore most cells. Efficie
 
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/2Sided.gif"   width="430" height="323"> 
 
-<strong>Multiple goal nodes</strong> can be specified as the example above shows:
+<strong>Multiple goal nodes</strong> can be specified. In the below example, there is 3 different goal cells.
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="430" height="323"> 
 
 In cite YT, this is could also be used for a version of <em>Frontier Based Exploration</em>  where the "robot" search for the nearest unexplored cell. See the following example:
