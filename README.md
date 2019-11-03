@@ -1,8 +1,13 @@
 # A* (Astar / A Star) search algorithm. Easy to use 
+
 Can handle any heigth and width of occupancy grid?  <strong>YES</strong>
+
 Possible to specify multiple goal nodes?<strong>YES</strong>
+
 Fast and efficient?<strong>YES</strong>
+
 Possible to specify connecting distance to other nodes?<strong>YES</strong> (in other words the algorithm is not restriced to 8-directions) 
+
 In the version 1.0 there are no nested functions, subfunctions, plotters, or any other mess in the actual pathfinder script. Version2 is a bit faster, but possibly a bit harder to understand. 
 
 -----------------
