@@ -2,11 +2,11 @@
 
 Can handle any heigth and width of occupancy grid?  <strong>YES</strong>
 
-Possible to specify multiple goal nodes?<strong>YES</strong>
+Possible to specify multiple goal nodes? <strong>YES</strong>
 
-Fast and efficient?<strong>YES</strong>
+Fast and efficient? <strong>YES</strong>
 
-Possible to specify connecting distance to other nodes?<strong>YES</strong> (in other words the algorithm is not restriced to 8-directions) 
+Possible to specify connecting distance to other nodes? <strong>YES</strong> (in other words the algorithm is not restriced to 8-directions) 
 
 In the version 1.0 there are no nested functions, subfunctions, plotters, or any other mess in the actual pathfinder script. Version2 is a bit faster, but possibly a bit harder to understand. 
 
@@ -31,7 +31,7 @@ In the above example, the A-Star algorithm needed to explore most cells. Efficie
 
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/2Sided.gif"   width="430" height="323"> 
 
-<strong>Multiple goal nodes</strong> can be specified. In the below example, there is 3 different goal cells.
+<strong>Multiple goal nodes</strong> can be specified. In the below example, there is 4 different goal cells.
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/Multiple.gif"   width="430" height="323"> 
 
 An example of use of provided method is the use in <em>Frontier Based Exploration</em>  where the "robot" search for the nearest unexplored cell:
