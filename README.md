@@ -1,5 +1,15 @@
-# Astar-Algorithm
-An update of the Astar algorithm will be posted here
+# A* (Astar / A Star) search algorithm. Easy to use 
+Can handle any heigth and width of occupancy grid?  <strong>YES</strong>
+Possible to specify multiple goal nodes?<strong>YES</strong>
+Fast and efficient?<strong>YES</strong>
+Possible to specify connecting distance to other nodes?<strong>YES</strong> (in other words the algorithm is not restriced to 8-directions) 
+In the version 1.0 there are no nested functions, subfunctions, plotters, or any other mess in the actual pathfinder script. Version2 is a bit faster, but possibly a bit harder to understand. 
+
+-----------------
+
+Algorithm has simple inputs: An occupancy grid. A goal Matrix, the start node and preffered connecting distance. 
+The zip file includes an example on the use of the script 
+
 
 The <strong>Connecting Distance</strong> determines the connections from each node to neighbooring cells.  This means that the algorithm is not restriced to 4 or 8-directions (which often is the case in other implementations). In general a longer connecting distance require some more computation time.  
 
