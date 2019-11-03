@@ -1,4 +1,4 @@
-# Astar-Algorithm
+# A* (Astar / A Star) search algorithm. Easy to use 
 Can handle any heigth and width of occupancy grid?  <strong>YES</strong>
 Possible to specify multiple goal nodes?<strong>YES</strong>
 Fast and efficient?<strong>YES</strong>
