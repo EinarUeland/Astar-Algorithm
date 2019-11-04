@@ -39,7 +39,7 @@ An example of use of provided method is the use in <em>Frontier Based Exploratio
 
 See example video [here](https://www.youtube.com/watch?v=BUihBGbhfDA&list=UU1A6Jx2ywuj62UYKbIAUcOQ&index=3&t=0s "Youtube")
 
-By modifying the <strong>traversing cost</strong> one can penalize paths that are near objects, and generally create smoother paths: 
+By modifying the <strong>weight map</strong> for traversing cells, one can penalize paths that are near objects, and generally create smoother paths: 
 <p align="center"><img src="https://github.com/EinarUeland/Astar-Algorithm/blob/TestRnd/Figures/GFF.gif"   width="430" height="323"> 
 
 
