@@ -10,6 +10,8 @@ Possible to specify connecting distance to other nodes? <strong>YES</strong> (in
 
 In the version 1.0 there are no nested functions, subfunctions, plotters, or any other mess in the actual pathfinder script. Version2 is a bit faster, but possibly a bit harder to understand. 
 
+[![DOI](https://zenodo.org/badge/209055363.svg)](https://zenodo.org/badge/latestdoi/209055363)
+
 -----------------
 
 Algorithm has simple inputs: An occupancy grid. A goal Matrix, the start node and preffered connecting distance. 
